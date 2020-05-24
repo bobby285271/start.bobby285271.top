@@ -3,6 +3,10 @@ html, body {
 	height: 100% !important;
 }
 
+:focus{
+	outline: 0px;
+}
+
 .main-loading {
 	position: fixed;
 	top: 50%;
