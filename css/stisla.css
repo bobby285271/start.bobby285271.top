@@ -395,8 +395,8 @@ section.callout h3 {
 	-webkit-box-shadow: 0 0 40px rgba(0,0,0,.05);
 	-moz-box-shadow: 0 0 40px rgba(0,0,0,.05);
 	-o-box-shadow: 0 0 40px rgba(0,0,0,.05);
-	padding: 30px 25px;
-	padding-right: 130px;
+	padding: 30px 30px;
+	/* padding-right: 130px; */
 	border-radius: 30px !important;
 	-webkit-border-radius: 30px !important;
 	-moz-border-radius: 30px !important;
